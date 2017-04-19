@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.author             = { "jianqiang.bao" => "16230091@qq.com" }
   s.source       = { :git => "https://github.com/BaoBaoJianqiang/MySwiftLib.git", :tag => "MySwiftLib0.0.1" }
 
-  s.source_files  = "MyApp/BaseViewController.swift"
-  s.source_files  = "MyApp/Navigator.swift"
-  s.source_files  = "MyApp/Reflect.swift"
+  s.source_files  = "Lib/BaseViewController.swift"
+  s.source_files  = "Lib/Navigator.swift"
+  s.source_files  = "Lib/Reflect.swift"
 end
