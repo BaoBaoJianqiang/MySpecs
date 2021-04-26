@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     s.homepage     = "https://github.com/BaoBaoJianqiang/Module1_a"
     s.platform     = :ios, "6.0"
     s.license      = "MIT"
-    s.dependency   'Configue_a', '~> 0.0.5',
+    s.dependency   'Configue_a', '~> 0.0.5'
     s.dependency   'MyLib_a', '~> 0.0.6'
     s.author             = { "jianqiang.bao" => "16230091@qq.com" }
     s.source       = { :git => "https://github.com/BaoBaoJianqiang/Module1_a.git", :tag => "Module1_0.0.2" }
